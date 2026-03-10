@@ -2,8 +2,7 @@
 
 Pipeline chuẩn của Invoice OCR
 
-Một hệ thống OCR chuẩn gồm 4 bước chính:
-
+1. Một hệ thống OCR chuẩn gồm 4 bước chính:
 Invoice Image
       ↓
 1. Image Preprocessing
