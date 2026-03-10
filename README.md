@@ -12,3 +12,7 @@ Invoice Image
 3. Text Recognition (OCR)
       ↓
 4. Information Extraction
+
+Information 
+OCR famework: PaddleOCR
+Model: Donut (Document Understanding)
