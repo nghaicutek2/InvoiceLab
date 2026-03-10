@@ -75,27 +75,7 @@ Invoice Image
 
 # 1. Image Preprocessing
 
-Before applying OCR, invoice images are preprocessed to improve text detection and recognition accuracy.
 
-Common preprocessing techniques include:
-
-* Image resizing
-* Noise removal
-* Contrast enhancement
-* Binarization
-* Deskewing
-* Image normalization
-
-Libraries used:
-
-* OpenCV
-* NumPy
-
-Example preprocessing operations:
-
-* Convert image to grayscale
-* Apply Gaussian blur
-* Adaptive thresholding
 
 ---
 
